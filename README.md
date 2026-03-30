@@ -7,7 +7,7 @@
 ## 설치
 
 ```
-npx skills add mainsoft-2024/toss-payments-agent-skills
+npx skills add mainsoft-2024/toss-payments-docs-fetcher-skill
 ```
 
 ## 구조
